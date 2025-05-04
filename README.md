@@ -30,6 +30,8 @@ By visualizing these data points, the project aims to:
 
 Alteryx was used to **prepare, cleanse, and analyze** the data efficiently, enabling seamless integration into visualization platforms like **Power BI**.
 
+> ✅ **For best results, download the workflow file and run it in Alteryx Designer to explore the logic, insights, and transformations used in this project.**
+
 ---
 
 ## 👥 **Target Audience**
